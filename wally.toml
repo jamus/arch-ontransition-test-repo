@@ -1,0 +1,8 @@
+[package]
+name = "jamiereynolds/roblox-rocket-game"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+arch = "bohraz/arch@0.3.8"

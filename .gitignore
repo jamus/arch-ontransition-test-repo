@@ -1,0 +1,6 @@
+# Project place file
+/arch-ontransition-test-repo.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
